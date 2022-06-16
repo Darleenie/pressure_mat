@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: torch-hd
+Version: 1.0.4
+Summary: Optimized implementations of HD functions using pytorch with GPU support
+Home-page: https://rishikanthc.github.io/torch-hd/
+Author: Rishikanth
+Author-email: r3chandr@ucsd.edu
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/rishikanthc/torch-hd/issues
+Description: # Basic MNIST Example
+        
+        ```bash
+        pip install -r requirements.txt
+        python main.py
+        # CUDA_VISIBLE_DEVICES=2 python main.py  # to specify GPU id to ex. 2
+        ```
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

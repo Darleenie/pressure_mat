@@ -1,0 +1,5 @@
+README.md
+torch_hd.egg-info/PKG-INFO
+torch_hd.egg-info/SOURCES.txt
+torch_hd.egg-info/dependency_links.txt
+torch_hd.egg-info/top_level.txt
